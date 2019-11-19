@@ -1,0 +1,18 @@
+#container {
+  padding: 5vw;
+}
+.bigfont {
+  font-size: 2em;
+}
+.ingredients thead td {
+  font-weight: bold;
+}
+.ingrements tbody td {
+  font-size: 1em;
+}
+.ingredient-name {
+  width: 40%;
+}
+.nutrient {
+  width: 20%;
+}
